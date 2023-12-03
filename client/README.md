@@ -89,7 +89,7 @@ pnpm run dev
 
 ### Testing
 
-We have basic unit tests for most of the composite components. You can find them in the `/components/{Component}/tests` folder under the specific components. The tests check for components existing, correct labeling of variables, and strings matching the expected constants. In the future, we hope to be expanding on these unit tests and adding integration tests to test for more complex behaviours.
+We have basic unit tests for most of the composite components. You can find them in the `/components/{Component}/tests` folder under the specific components. The tests check for component existence, correct variable labels, and strings matching the expected constants. In the future, we hope to expand on these unit tests and add integration tests to test for more complex behaviours.
 
 Ensure that you have followed the [Development Requirements](https://github.com/csc301-2023-fall/project-44-toronto-intelligence-m/blob/main/README.md#development-requirements) to set up your local environment before testing. To run the unit tests:
 
