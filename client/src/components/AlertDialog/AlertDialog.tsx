@@ -22,15 +22,15 @@ interface AlertDialogProps {
    */
   onOpenChange: React.Dispatch<React.SetStateAction<boolean>>;
   /**
-   * The title in the dialog content.
+   * The title displayed in the dialog content.
    */
   title: string;
   /**
-   * The desscription in the dialog content.
+   * The desscription displayed in the dialog content.
    */
   description: string;
   /**
-   * The text inside the primary button of the dialog.
+   * The text displayed inside the primary button of the dialog.
    */
   primaryButtonText: string;
   /**
@@ -38,7 +38,7 @@ interface AlertDialogProps {
    */
   primaryAction: () => void;
   /**
-   * The text inside the secondary button of the dialog.
+   * The text displayed inside the secondary button of the dialog.
    */
   secondaryButtonText: string;
 }
