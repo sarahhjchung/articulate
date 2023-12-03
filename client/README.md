@@ -10,7 +10,7 @@
 
 ##### [Testing](#Testing-1)
 
-#### [Resources](#resources-1)
+#### [Learning Resources](#learning-resources-1)
 
 #### [Contributing](#contributing-1)
 
