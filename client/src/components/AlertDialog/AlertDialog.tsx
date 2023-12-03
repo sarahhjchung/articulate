@@ -45,8 +45,8 @@ interface AlertDialogProps {
 
 /**
  * A modal dialog that interrupts the user with important content and expects a response.
- * @param alertDialogProps
- * @returns an AlertDialog component
+ * @param props See `AlertDialogProps`
+ * @returns An AlertDialog component
  */
 export function AlertDialog({
   open,

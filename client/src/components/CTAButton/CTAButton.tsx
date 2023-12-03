@@ -19,8 +19,8 @@ interface CTAButtonProps {
 
 /**
  * Displays a button meant to be used for bold call-to-actions. Clicking the button will lead to `linkDestination`.
- * @param ctaButtonProps
- * @returns a CTAButton component
+ * @param props See `CTAButtonProps`
+ * @returns A CTAButton component
  */
 export function CTAButton({
   className,
