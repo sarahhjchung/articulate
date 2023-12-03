@@ -8,7 +8,7 @@
 
 ##### [Usage](#usage-1)
 
-##### [Testing](#Testing-1)
+##### [Testing](#testing-1)
 
 #### [Learning Resources](#learning-resources-1)
 
